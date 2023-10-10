@@ -1,0 +1,6 @@
+.*
+*.*~
+*.py[ic]
+__pycache__
+dist/
+!.gitignore
